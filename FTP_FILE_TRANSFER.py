@@ -32,7 +32,7 @@ def delete_and_upload_file_to_ftp(ftp_server, ftp_user, ftp_password, local_file
 # Example usage
 ftp_server = '10.10.253.10'  # Replace with your FTP server address
 ftp_user = 'edf.ratan.jha'      # Replace with your FTP username
-ftp_password = '*************'  # Replace with your FTP password
+ftp_password = 'Gfsdser#$431123'  # Replace with your FTP password
 local_file_path = r'C:\Users\Ratan Kumar Jha\Desktop\MAIL_AUTO_DATA_DOWNLOAD\ASSET_INITIATION_INVENTORY_NB.csv'  # Replace with the path to your local CSV file
 remote_file_path = '/EDF Code Automation/ASSET_INITIATION_INVENTORY_NB.csv'  # Replace with the desired remote path
 
